@@ -1,4 +1,5 @@
 from turtle import Turtle, Screen
+import tkinter as tk
 
 tim = Turtle(shape="turtle")
 tim.color("blue")
